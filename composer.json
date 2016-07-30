@@ -17,12 +17,16 @@
             "name": "Kyle Spraggs",
             "email": "theman@spiffyjr.me",
             "homepage": "http://www.spiffyjr.me/"
+        },
+                {
+            "name": "Daniel Strøm",
+            "email": "danielss89@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.3.3",
-        "zf-commons/zfc-user": "1.*",
-        "doctrine/doctrine-orm-module": "0.*"
+        "zf-commons/zfc-user": "*",
+        "doctrine/doctrine-orm-module": "~1.0"
     },
     "extra": {
         "branch-alias": {
